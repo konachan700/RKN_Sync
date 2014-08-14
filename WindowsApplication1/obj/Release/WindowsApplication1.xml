@@ -1,0 +1,130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.orel2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.tdhelper">
+	<summary>
+  Looks up a localized string similar to Option Explicit
+
+' Для вызова справки запустите данный скрипт без параметров
+
+' Определяет директорию для хранения log-файлов
+const LOG_PATH = "./logs"
+
+
+' ===== History
+' 24.09.2009, версия 1.0, ООО "Цифровые технологии"
+'
+' Реализовано:
+' - выполнение следующих операций над подходящими файлами в заданном каталоге:
+'   - установка ЭЦП, в т.ч. УЭЦП, а также просто со штампами времени
+'   - проверка ЭЦП, в т.ч. заверяющих
+'   - снятие ЭЦП
+'   - шифрование (с проверкой на недействительность се [rest of string was truncated]";.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.#ctor">
+	<remarks/>
+</member><member name="E:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDateCompleted">
+	<remarks/>
+</member><member name="E:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDateExCompleted">
+	<remarks/>
+</member><member name="E:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.sendRequestCompleted">
+	<remarks/>
+</member><member name="E:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getResultCompleted">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDate">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDateAsync">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDateAsync(System.Object)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDateEx(System.Int64@,System.String@,System.String@,System.String@)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDateExAsync">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getLastDumpDateExAsync(System.Object)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.sendRequest(System.Byte[],System.Byte[],System.String,System.String@,System.String@)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.sendRequestAsync(System.Byte[],System.Byte[],System.String)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.sendRequestAsync(System.Byte[],System.Byte[],System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getResult(System.String,System.String@,System.Byte[]@,System.Int32@,System.String@)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getResultAsync(System.String)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.getResultAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.OperatorRequestService">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateExCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateExCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateExCompletedEventArgs.lastDumpDateUrgently">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateExCompletedEventArgs.webServiceVersion">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateExCompletedEventArgs.dumpFormatVersion">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateExCompletedEventArgs.docVersion">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.getLastDumpDateExCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.sendRequestCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.sendRequestCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.sendRequestCompletedEventArgs.resultComment">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.sendRequestCompletedEventArgs.code">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.sendRequestCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.getResultCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getResultCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getResultCompletedEventArgs.resultComment">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getResultCompletedEventArgs.registerZipArchive">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getResultCompletedEventArgs.resultCode">
+	<remarks/>
+</member><member name="P:WindowsApplication1.ru.gov.rkn.vigruzki.getResultCompletedEventArgs.dumpFormatVersion">
+	<remarks/>
+</member><member name="T:WindowsApplication1.ru.gov.rkn.vigruzki.getResultCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>
